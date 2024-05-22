@@ -1,0 +1,12 @@
+.navbar {
+  background: linear-gradient(to bottom, transparent, rgb(90 102 156))
+    rgb(var(--background-end-rgb));
+  display: flex;
+  justify-content: flex-end;
+}
+
+.navbarNav {
+  display: flex;
+  justify-content: center;
+  padding-right: 10%;
+}
